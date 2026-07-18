@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 @theme {
-    --font-DM-Sans: "DM Sans";
+    --font-DM-Sans: "DM Sans", sans-serif;
     --color-Purple-100: hsl(254, 88%, 90%);
     --color-Purple-500: hsl(256, 67%, 59%);
     --color-Yellow-100: hsl(31, 66%, 93%);
