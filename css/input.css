@@ -9,3 +9,9 @@
     --color-White: hsl(0, 0%, 100%);
     --color-Black: hsl(0, 0%, 7%);
 }
+
+@layer utilities {
+    .card {
+        border-radius: 10px;
+    }
+}
