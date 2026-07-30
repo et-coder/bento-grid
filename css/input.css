@@ -10,14 +10,14 @@
     --color-Black: hsl(0, 0%, 7%);
 
     /* Fluid type scale: mobile size → grows smoothly → desktop size */
-    --text-base: clamp(18px, 17px + 0.25vw, 20px);
-    --text-lg: clamp(26px, 20.5px + 1.5vw, 40px);
+    --text-base: clamp(18px, 17px + 0.25vw, 18px);
+    --text-lg: clamp(26px, 20.5px + 1.5vw, 30px);
     --text-xl: clamp(33px, 25px + 2.1vw, 40px);
-    --text-2xl: clamp(46px, 35px + 2.9vw, 64px);
+    --text-2xl: clamp(46px, 35px + 2.9vw, 60px);
 
     /* Tight line-heights for large type */
-    --text-base--line-height: 1.6;
-    --text-lg--line-height: 1;
+    --text-base--line-height: 1;
+    --text-lg--line-height: 0.8;
     --text-xl--line-height: 0.9;
     --text-2xl--line-height: 0.9;
 }
