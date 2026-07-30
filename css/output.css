@@ -515,6 +515,9 @@
     .lg\:col-start-3 {
       grid-column-start: 3;
     }
+    .lg\:col-start-4 {
+      grid-column-start: 4;
+    }
     .lg\:col-end-5 {
       grid-column-end: 5;
     }
