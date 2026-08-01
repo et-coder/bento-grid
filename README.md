@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Go to solution](https://your-solution-url.com)
+- Solution URL: [Go to solution](https://https://www.frontendmentor.io/solutions/responsive-bento-grid-layout-using-talilwindcss-ebPlW0xsQV)
 - Live Site URL: [visit site](https://et-coder.github.io/bento-grid)
 
 ## My process
@@ -58,5 +58,5 @@ I learned how to use grid using in talilwindcss, how it is different from using 
 
 ## Author
 
-- Github - [Natnael](https://www.github.com/et-coder)
+- Github - [et-coder](https://www.github.com/et-coder)
 - Frontend Mentor - [@et-coder](https://www.frontendmentor.io/profile/et-coder)
